@@ -1,2 +1,2 @@
 # Student-Management-System
-Developed a Java-based fast food kitchen simulation to manage burger orders, including adding, canceling, and completing orders
+Built a Java-based system to manage student data, including adding, deleting, and modifying student records using arrays
